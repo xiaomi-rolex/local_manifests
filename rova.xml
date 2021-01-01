@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="xiaomi-rolex/android_kernel_xiaomi_msm8917"
+           path="kernel/xiaomi/msm8917"
+           remote="github"
+           revision="eleven" />
+  <project name="xiaomi-rolex/android_device_xiaomi_rova"
+           path="device/xiaomi/rova"
+           remote="github"
+           revision="eleven" />
+  <project name="xiaomi-rolex/android_device_xiaomi_msm8917-common"
+           path="device/xiaomi/msm8917-common"
+           remote="github" 
+           revision="eleven" />
+  <project name="xiaomi-rolex/proprietary_vendor_xiaomi_rova"
+           path="vendor/xiaomi/rova"
+           remote="github"
+           revision="eleven" />
+  <project name="xiaomi-rolex/proprietary_vendor_xiaomi_msm8917-common"
+           path="vendor/xiaomi/msm8917-common"
+           remote="github"
+           revision="eleven" />
+</manifest>
+
